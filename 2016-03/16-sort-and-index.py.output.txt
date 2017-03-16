@@ -1,0 +1,4 @@
+1 was in position 4
+7 was in position 2
+34 was in position 1
+38 was in position 3
